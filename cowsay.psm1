@@ -107,6 +107,19 @@ $modes = @{
          (__)\        )\/\
               ||----w |   
               ||     ||   
+.Example
+  cowthink -b cowthink I think therfore I am...?
+  Description
+  -----------
+  All modes that exist for cowsay function in cowthink
+ ____________________________________
+< cowthink I think therfore I am...? >
+ ------------------------------------
+      o  ^__^             
+       o (==)\________    
+         (__)\        )\/\
+              ||----w |   
+              ||     ||  
 #>
 function Cowsay() {
 	$params
