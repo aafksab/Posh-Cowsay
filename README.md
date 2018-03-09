@@ -25,6 +25,10 @@ For more examples see the built-in Powershell help:
 
     > get-help cowsay -examples
 
+Now with Cowthink
+     
+     > cowthink I think therfore I am...?
+
 Install
 =======
 Posh-Cowsay is a single Powershell Module file with no dependencies. To install it:
